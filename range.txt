@@ -1,3 +1,5 @@
+# Puzzle 71
+400000000000000000:7fffffffffffffffff
 # Puzzle 72
 800000000000000000:ffffffffffffffffff
 # Puzzle 73
