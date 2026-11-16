@@ -3383,7 +3383,7 @@ def _bip32_derive_auto(mnemonic: str, account_path: str = "m/44'/0'/0'/0"):
     return key, chain
 
 
-BIP39_DEFAULT_COUNT = 300        # addresses per mnemonic for every non-BTC coin below
+BIP39_DEFAULT_COUNT = 300_000      # addresses per mnemonic for every non-BTC coin below
 
 # The main percentage-based range scanner (CENTER_PERCENT / range.txt / range1.txt) is
 # untouched by seed mode - it's a separate search method entirely. BIP39 seed mode covers
