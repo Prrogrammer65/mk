@@ -1,0 +1,180 @@
+# Puzzle 72
+800000000000000000:ffffffffffffffffff
+# Puzzle 73
+1000000000000000000:1ffffffffffffffffff
+# Puzzle 74
+2000000000000000000:3ffffffffffffffffff
+# Puzzle 75
+4000000000000000000:7ffffffffffffffffff
+# Puzzle 76
+8000000000000000000:fffffffffffffffffff
+# Puzzle 77
+10000000000000000000:1fffffffffffffffffff
+# Puzzle 78
+20000000000000000000:3fffffffffffffffffff
+# Puzzle 79
+40000000000000000000:7fffffffffffffffffff
+# Puzzle 80
+80000000000000000000:ffffffffffffffffffff
+# Puzzle 81
+100000000000000000000:1ffffffffffffffffffff
+# Puzzle 82
+200000000000000000000:3ffffffffffffffffffff
+# Puzzle 83
+400000000000000000000:7ffffffffffffffffffff
+# Puzzle 84
+800000000000000000000:fffffffffffffffffffff
+# Puzzle 85
+1000000000000000000000:1fffffffffffffffffffff
+# Puzzle 86
+2000000000000000000000:3fffffffffffffffffffff
+# Puzzle 87
+4000000000000000000000:7fffffffffffffffffffff
+# Puzzle 88
+8000000000000000000000:ffffffffffffffffffffff
+# Puzzle 89
+10000000000000000000000:1ffffffffffffffffffffff
+# Puzzle 90
+20000000000000000000000:3ffffffffffffffffffffff
+# Puzzle 91
+40000000000000000000000:7ffffffffffffffffffffff
+# Puzzle 92
+80000000000000000000000:fffffffffffffffffffffff
+# Puzzle 93
+100000000000000000000000:1fffffffffffffffffffffff
+# Puzzle 94
+200000000000000000000000:3fffffffffffffffffffffff
+# Puzzle 95
+400000000000000000000000:7fffffffffffffffffffffff
+# Puzzle 96
+800000000000000000000000:ffffffffffffffffffffffff
+# Puzzle 97
+1000000000000000000000000:1ffffffffffffffffffffffff
+# Puzzle 98
+2000000000000000000000000:3ffffffffffffffffffffffff
+# Puzzle 99
+4000000000000000000000000:7ffffffffffffffffffffffff
+# Puzzle 100
+8000000000000000000000000:fffffffffffffffffffffffff
+# Puzzle 101
+10000000000000000000000000:1fffffffffffffffffffffffff
+# Puzzle 102
+20000000000000000000000000:3fffffffffffffffffffffffff
+# Puzzle 103
+40000000000000000000000000:7fffffffffffffffffffffffff
+# Puzzle 104
+80000000000000000000000000:ffffffffffffffffffffffffff
+# Puzzle 105
+100000000000000000000000000:1ffffffffffffffffffffffffff
+# Puzzle 106
+200000000000000000000000000:3ffffffffffffffffffffffffff
+# Puzzle 107
+400000000000000000000000000:7ffffffffffffffffffffffffff
+# Puzzle 108
+800000000000000000000000000:fffffffffffffffffffffffffff
+# Puzzle 109
+1000000000000000000000000000:1fffffffffffffffffffffffffff
+# Puzzle 110
+2000000000000000000000000000:3fffffffffffffffffffffffffff
+# Puzzle 111
+4000000000000000000000000000:7fffffffffffffffffffffffffff
+# Puzzle 112
+8000000000000000000000000000:ffffffffffffffffffffffffffff
+# Puzzle 113
+10000000000000000000000000000:1ffffffffffffffffffffffffffff
+# Puzzle 114
+20000000000000000000000000000:3ffffffffffffffffffffffffffff
+# Puzzle 115
+40000000000000000000000000000:7ffffffffffffffffffffffffffff
+# Puzzle 116
+80000000000000000000000000000:fffffffffffffffffffffffffffff
+# Puzzle 117
+100000000000000000000000000000:1fffffffffffffffffffffffffffff
+# Puzzle 118
+200000000000000000000000000000:3fffffffffffffffffffffffffffff
+# Puzzle 119
+400000000000000000000000000000:7fffffffffffffffffffffffffffff
+# Puzzle 120
+800000000000000000000000000000:ffffffffffffffffffffffffffffff
+# Puzzle 121
+1000000000000000000000000000000:1ffffffffffffffffffffffffffffff
+# Puzzle 122
+2000000000000000000000000000000:3ffffffffffffffffffffffffffffff
+# Puzzle 123
+4000000000000000000000000000000:7ffffffffffffffffffffffffffffff
+# Puzzle 124
+8000000000000000000000000000000:fffffffffffffffffffffffffffffff
+# Puzzle 125
+10000000000000000000000000000000:1fffffffffffffffffffffffffffffff
+# Puzzle 126
+20000000000000000000000000000000:3fffffffffffffffffffffffffffffff
+# Puzzle 127
+40000000000000000000000000000000:7fffffffffffffffffffffffffffffff
+# Puzzle 128
+80000000000000000000000000000000:ffffffffffffffffffffffffffffffff
+# Puzzle 129
+100000000000000000000000000000000:1ffffffffffffffffffffffffffffffff
+# Puzzle 130
+200000000000000000000000000000000:3ffffffffffffffffffffffffffffffff
+# Puzzle 131
+400000000000000000000000000000000:7ffffffffffffffffffffffffffffffff
+# Puzzle 132
+800000000000000000000000000000000:fffffffffffffffffffffffffffffffff
+# Puzzle 133
+1000000000000000000000000000000000:1fffffffffffffffffffffffffffffffff
+# Puzzle 134
+2000000000000000000000000000000000:3fffffffffffffffffffffffffffffffff
+# Puzzle 135
+4000000000000000000000000000000000:7fffffffffffffffffffffffffffffffff
+# Puzzle 136
+8000000000000000000000000000000000:ffffffffffffffffffffffffffffffffff
+# Puzzle 137
+10000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffff
+# Puzzle 138
+20000000000000000000000000000000000:3ffffffffffffffffffffffffffffffffff
+# Puzzle 139
+40000000000000000000000000000000000:7ffffffffffffffffffffffffffffffffff
+# Puzzle 140
+80000000000000000000000000000000000:fffffffffffffffffffffffffffffffffff
+# Puzzle 141
+100000000000000000000000000000000000:1fffffffffffffffffffffffffffffffffff
+# Puzzle 142
+200000000000000000000000000000000000:3fffffffffffffffffffffffffffffffffff
+# Puzzle 143
+400000000000000000000000000000000000:7fffffffffffffffffffffffffffffffffff
+# Puzzle 144
+800000000000000000000000000000000000:ffffffffffffffffffffffffffffffffffff
+# Puzzle 145
+1000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffff
+# Puzzle 146
+2000000000000000000000000000000000000:3ffffffffffffffffffffffffffffffffffff
+# Puzzle 147
+4000000000000000000000000000000000000:7ffffffffffffffffffffffffffffffffffff
+# Puzzle 148
+8000000000000000000000000000000000000:fffffffffffffffffffffffffffffffffffff
+# Puzzle 149
+10000000000000000000000000000000000000:1fffffffffffffffffffffffffffffffffffff
+# Puzzle 150
+20000000000000000000000000000000000000:3fffffffffffffffffffffffffffffffffffff
+# Puzzle 151
+40000000000000000000000000000000000000:7fffffffffffffffffffffffffffffffffffff
+# Puzzle 152
+80000000000000000000000000000000000000:ffffffffffffffffffffffffffffffffffffff
+# Puzzle 153
+100000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffffff
+# Puzzle 154
+200000000000000000000000000000000000000:3ffffffffffffffffffffffffffffffffffffff
+# Puzzle 155
+400000000000000000000000000000000000000:7ffffffffffffffffffffffffffffffffffffff
+# Puzzle 156
+800000000000000000000000000000000000000:fffffffffffffffffffffffffffffffffffffff
+# Puzzle 157
+1000000000000000000000000000000000000000:1fffffffffffffffffffffffffffffffffffffff
+# Puzzle 158
+2000000000000000000000000000000000000000:3fffffffffffffffffffffffffffffffffffffff
+# Puzzle 159
+4000000000000000000000000000000000000000:7fffffffffffffffffffffffffffffffffffffff
+# Puzzle 160
+8000000000000000000000000000000000000000:ffffffffffffffffffffffffffffffffffffffff
+# Puzzle 161
+10000000000000000000000000000000000000000:1ffffffffffffffffffffffffffffffffffffffff
